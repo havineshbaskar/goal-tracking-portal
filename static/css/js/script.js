@@ -1,0 +1,1 @@
+console.log("Goal Tracking Portal Loaded");
